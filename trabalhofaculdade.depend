@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1756006580 source:c:\trabalhofaculdade\19.c
+	<stdio.h>
+
+1755998031 source:c:\trabalhofaculdade\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1755996139 source:c:\trabalhofaculdade\questao1.c
+	<stdio.h>
+
+1755997009 source:c:\trabalhofaculdade\questao11.c
+	<stdio.h>
+	<math.h>
+
+1756004582 source:c:\trabalhofaculdade\questao17.c
+	<stdio.h>
+
+1756005977 source:c:\trabalhofaculdade\questao18.c
+	<stdio.h>
+
+1756008295 source:c:\trabalhofaculdade\questao20.c
+	<stdio.h>
+	<stdlib.h>
+
+1756008604 source:c:\trabalhofaculdade\questao21.c
+	<stdio.h>
+
+1756009077 source:c:\trabalhofaculdade\questao22.c
+	<stdio.h>
+
+1756010529 source:c:\trabalhofaculdade\questao24.c
+	<stdio.h>
+
+1756141774 source:c:\trabalhofaculdade\questao25.c
+	<stdio.h>
+	<math.h>
+
+1756144748 source:c:\trabalhofaculdade\questao23.c
+	<stdio.h>
+
